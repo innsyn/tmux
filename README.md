@@ -1,6 +1,6 @@
 .tmux.conf
 ====
 
-Tmux Configuration File
+My Tmux configuration file.
 
 Place in .tmux directory
